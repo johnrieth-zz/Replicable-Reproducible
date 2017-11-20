@@ -9,6 +9,7 @@
 - [Reproducible Analysis Through Autmoated Jupyter Notebook Pipelines](http://compbio.ucsd.edu/reproducible-analysis-automated-jupyter-notebook-pipelines/)
 - [Nodebook](http://multithreaded.stitchfix.com/blog/2017/07/26/nodebook/)
 - [Replicability vs. reproducibility — or is it the other way around?](http://languagelog.ldc.upenn.edu/nll/?p=21956)
+- [Failure Is Moving Science Forward](https://fivethirtyeight.com/features/failure-is-moving-science-forward/)
 
 ## Courses
 - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) The course uses R.
